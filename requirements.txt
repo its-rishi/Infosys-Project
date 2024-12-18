@@ -1,3 +1,4 @@
+gunicorn==23.0
 tensorflow>=2.12,<2.19  # Adjust version based on your installation
 streamlit==1.25.0   # Adjust version as per your setup
 numpy>=1.26.0       # For numerical operations
